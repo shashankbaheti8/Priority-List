@@ -52,7 +52,7 @@ function App() {
   return (
    <>
       <Router>
-        <Header title="priorityList" />
+        <Header title="priorityLists" />
         <Routes>
           <Route exact path="/" element={
             <>
